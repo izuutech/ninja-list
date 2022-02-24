@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+# ninja-list
+>>>>>>> 841e27d26c0ff684093c7b5e7e7b90d32ea65d1f
+Live Preview at https://ninja-list-alpha-jet.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
@@ -34,5 +39,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 =======
-# ninja-list
->>>>>>> 841e27d26c0ff684093c7b5e7e7b90d32ea65d1f

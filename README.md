@@ -3,8 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 # ninja-list
->>>>>>> 841e27d26c0ff684093c7b5e7e7b90d32ea65d1f
-Live Preview at https://ninja-list-alpha-jet.vercel.app/
+
+## Live Preview at 
+https://ninja-list-alpha-jet.vercel.app/
 
 ## Getting Started
 
